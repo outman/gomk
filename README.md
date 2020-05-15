@@ -1,4 +1,5 @@
-# gomk A command tool for markdown to html with template.
+# gomk
+A command tool for markdown to html with template.
 
 ## Install
 ```
